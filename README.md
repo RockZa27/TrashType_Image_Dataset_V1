@@ -1,1 +1,2 @@
-# TrashType_Image_Dataset_V1
+# TrashType_Image_Dataset
+<h1>Github Image Dataset</h1>
