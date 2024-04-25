@@ -1,0 +1,1 @@
+# TrashType_Image_Dataset_V1
